@@ -1,0 +1,24 @@
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent directories
+_agentlog/
+_runlogs/
+_backups/
+.trash/
+
+# Environment
+.env
+.env.local
